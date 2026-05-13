@@ -124,6 +124,63 @@ This dashboard focuses on support ticket analysis and issue tracking.
 
 ---
 
+# Power BI Features Used
+
+- KPI Cards
+- Bar Charts
+- Donut Charts
+- Tables
+- Slicers
+- Navigation Buttons
+- DAX Measures
+- Data Modeling
+
+---
+
+# Project Objectives
+
+- Analyze customer demographics
+- Track telecom revenue
+- Monitor customer usage trends
+- Analyze customer complaints
+- Generate business insights
+- Improve customer experience
+
+---
+
+# Conclusion
+
+This Telecom Customer & Revenue Analytics project helps telecom companies understand customer behavior, revenue trends, and support issues using interactive Power BI dashboards. The project demonstrates data visualization, business intelligence, and analytical skills.
+
+---
+
+# Future Improvements
+
+- Customer Churn Prediction
+- Machine Learning Integration
+- Real-Time Dashboard
+- Revenue Forecasting
+- Advanced DAX Calculations
+
+---
+
+# Author
+
+**Sanket Tippe**
+
+---
+
+# GitHub Repository Structure
+
+```bash
+Telecom-Customer-Revenue-Analytics/
+│
+├── Telecom_Dataset.xlsx
+├── telecom.pbix
+├── README.md
+└── screenshots/
+-----
+
 # SQL Sample Queries
 
 ## Total Customers
@@ -134,6 +191,9 @@ FROM CustomerMaster;
 ## Total Revenue
 SELECT SUM(Amount) AS TotalRevenue
 FROM RechargeHistory;
+
+
+
 
 
 
